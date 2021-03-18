@@ -1,0 +1,15 @@
+{
+  "name": "guard",
+  "version": "0.0.1",
+  "description": "guard Bot",
+  "main": "guard.js",
+  "scripts": {
+    "test": "node guard.js"
+  },
+  "author": "guard",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "keywords": []
+}

@@ -1,0 +1,16 @@
+{
+"botOwner":"bot owner id",
+"botPrefix":"y?",
+"botToken":"token",
+"guildID":"sunucu id",
+"botVoiceChannelID":"bot ses kanalı id",
+"logChannelID":"",
+"channelGuard":true,
+"serverGuard":true,
+"botGuard":true,
+"banGuard":true,
+"kickGuard":true,
+"whitelist":["eylemi sorgulanmıcak id rol"],
+"boosterRole":"booster rol id",
+"jailRole":"jail rol id"
+}
